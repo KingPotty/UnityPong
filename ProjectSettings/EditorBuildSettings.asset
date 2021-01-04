@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LeftVictoryScreen.unity
+    guid: 815c5cb7d73029242a847a1633282ea7
+  - enabled: 1
+    path: Assets/Scenes/RightVictoryScreen.unity
+    guid: 4ef8afa3c019f4e4eb8a7082c883d866
+  m_configObjects: {}
