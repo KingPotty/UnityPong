@@ -322,7 +322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   targetScore: 5
-  victoryScreenIndex: 2
+  victoryScreenIndex: 3
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1161,7 +1161,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   targetScore: 5
-  victoryScreenIndex: 1
+  victoryScreenIndex: 2
 --- !u!1 &1986464185
 GameObject:
   m_ObjectHideFlags: 0

@@ -562,6 +562,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28292d725035be94e95c2ed3b0337c6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mainGame:
+    m_Handle: 1
+  leftVictory:
+    m_Handle: 2
+  rightVictory:
+    m_Handle: 3
+  mainMenu:
+    m_Handle: 0
 --- !u!1 &1308150573
 GameObject:
   m_ObjectHideFlags: 0
